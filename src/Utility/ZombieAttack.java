@@ -16,6 +16,10 @@ class Main {
             if (num==0){
                 System.out.println("---- EXTINCT ----");
                 break;
+
+
+
+
             }
             if (inhabitants[0] > 0 && inhabitants[1]==0 ) {
                 inhabitants[0] /= 2;
